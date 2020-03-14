@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Anton-Golovin/TestWorkShow/issues"
   },
-  "homepage": "https://github.com/Anton-Golovin/TestWorkShow#readme"
+  "homepage": "https://github.com/Anton-Golovin/TestWorkShow#readme",
+  "dependencies": {
+    "webpack": "4.42.0"
+  }
 }
